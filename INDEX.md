@@ -7,6 +7,7 @@ their directory; this page links the major entry points.
 - [World Overview](01-foundation/world-overview.md)
 - [Core Themes](01-foundation/core-themes.md)
 - [Timeline](01-foundation/timeline.md) — summary and expanded chronology, unified
+- [Events](01-foundation/events/_index.md) † — the Collapse, the Concordance, Red Sands, the Shatter War, the Pale Closure, the Verantum Ascension, the Night of Doors
 
 ## The Domain System
 - [The Domain](02-the-domain/the-domain.md) — capabilities, stabilizing effect, universal language
@@ -43,13 +44,16 @@ their directory; this page links the major entry points.
 - [The Pale Sovereignty](07-geography/pale-sovereignty.md)
 - [The Silence](07-geography/the-silence.md)
 - [Neutral Territories](07-geography/neutral-territories.md)
+- [The Americas](07-geography/the-americas/_index.md) † — Mirror Throne, Roothold, the Free Coasts
 
 ## Civilization
 - [Daily Life](08-civilization/daily-life.md) · [Technology](08-civilization/technology.md) · [Economics](08-civilization/economics.md) · [Education](08-civilization/education.md)
 - [Religion](08-civilization/religion.md) · [Arts](08-civilization/arts.md) · [Family & Kinship](08-civilization/family-and-kinship.md) · [Death & Afterlife](08-civilization/death-and-afterlife.md)
+- † [Calendar](08-civilization/calendar.md) · [Festivals](08-civilization/festivals-and-holidays.md) · [Cuisine](08-civilization/cuisine.md) · [Sports & Games](08-civilization/sports-and-games.md) · [Architecture](08-civilization/architecture.md) · [Customs & Etiquette](08-civilization/customs-and-etiquette.md)
 
 ## Power and Conflict
 - [Military & Warfare](09-power-and-conflict/military.md)
+- [Politics](09-power-and-conflict/politics/_index.md) † — cold-war flashpoints, imperial succession, Union assembly, debt politics, divine politics
 - [Crime, Justice & Punishment](09-power-and-conflict/justice.md)
 - [Secret Societies](09-power-and-conflict/secret-societies/_index.md) — including [the Cabal](09-power-and-conflict/secret-societies/the-cabal.md)
 - [The Criminal Underworld](09-power-and-conflict/criminal-underworld.md)
@@ -63,6 +67,9 @@ their directory; this page links the major entry points.
 - [Central Mysteries](11-story/central-mysteries.md) · [Narrative Seeds](11-story/narrative-seeds.md) · [Character Archetypes](11-story/character-archetypes.md)
 - [Drafts](11-story/drafts/) — workspace for new stories
 
+## Characters
+- [Character files](13-characters/_index.md) † — the contemporary cast (Emperor Aurelian IX, the Debt-Mother, Ashka of the Pale…) and historical rulers
+
 ## Cross-Indexes
 - [Characters](12-indexes/characters.md) — every named human
 - [Deities](12-indexes/deities.md) — every named god, all categories
@@ -70,6 +77,8 @@ their directory; this page links the major entry points.
 - [Factions](12-indexes/factions.md) — powers, houses, orders, societies, companies
 - [Creatures](12-indexes/creatures.md) — Hollow, flora, fauna
 - [Glossary](12-indexes/glossary.md)
+
+*† = post-source draft additions ([conventions](00-meta/conventions.md)).*
 
 ## Meta
 - [Conventions](00-meta/conventions.md) — how to add content

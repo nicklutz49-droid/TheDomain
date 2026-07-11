@@ -15,7 +15,10 @@ type: index
 | The Pale Sovereignty | isolated theocracy | [→](../07-geography/pale-sovereignty.md) |
 | The Silence | natural deadzone | [→](../07-geography/the-silence.md) |
 | The Silk Passage | neutral trade route | [→](../07-geography/neutral-territories.md) |
-| The Americas | unaligned god-ruled nations | [→](../07-geography/neutral-territories.md) |
+| The Americas | unaligned god-ruled nations | [→](../07-geography/the-americas/_index.md) |
+| The Mirror Throne † | Tezcamotl's surveillance theocracy | [→](../07-geography/the-americas/mirror-throne.md) |
+| Roothold † | Grandmother Cedar's forest confederation | [→](../07-geography/the-americas/roothold.md) |
+| The Free Coasts † | godless-by-charter harbor league | [→](../07-geography/the-americas/the-free-coasts.md) |
 
 ## Cities
 
@@ -38,7 +41,10 @@ type: index
 ## Glitch zones
 
 See the [glitch zone master table](../06-threats-and-anomalies/glitch-zones/_index.md)
-(11 major zones + 2 Confederacy-local).
+(11 major zones + 2 Confederacy-local). Draft additions from the events files †:
+the **Glass Flats** (Arabia — [Red Sands](../01-foundation/events/battle-of-red-sands.md))
+and the **Shatterbelt** (Anatolia–Levant DMZ —
+[Shatter War](../01-foundation/events/the-shatter-war.md)).
 
 ## Celestial / hidden
 

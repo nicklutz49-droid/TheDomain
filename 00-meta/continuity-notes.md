@@ -42,3 +42,19 @@ expansion targets — recover or rebuild them under the matching directories.
 - Repaired double-encoded UTF-8 (`â€”` → `—` etc.) throughout.
 - Reconstructed three tables that had collapsed into run-on text: the Divine Power Scale (§11), Fluxborn Power Affinities (§16), and Major Glitch Zones (§20).
 - Merged the Timeline Summary (§3) and Expanded Timeline (§49) into one file.
+
+## Draft canon decisions (expansion wave 1 — revise freely, they're `status: draft`)
+
+These are the load-bearing *new* rulings introduced by the † files. Each is
+consistent with source canon but not required by it:
+
+1. **Calendar** ([calendar.md](../08-civilization/calendar.md)): years counted AC; present = 2,096 AC; 12×30-day months + 5 Still Days; six-day week. *Resolves the open calendar ambiguity above.*
+2. **The Fluxborn Accords originate at Red Sands** (~750 ya), driven by Sahar of the Glass Banner ([event](../01-foundation/events/battle-of-red-sands.md)).
+3. **The Shatter War** was Empire vs. Union over the Lowgate concessions; its battlefields became the Shatterbelt ([event](../01-foundation/events/the-shatter-war.md)).
+4. **The Cabal formalized around the Threefold Testimony** after the staged sealing of the new draft god Quorion (~150 ya) ([event](../01-foundation/events/the-verantum-ascension.md)).
+5. **The Centenary Conclave**: the Twelve meet every 100 years; the 22nd convenes in 2,100 AC — four years from present ([divine politics](../09-power-and-conflict/politics/divine-politics.md)).
+6. **Confederacy masks are apotropaic in origin** — the First Face legend ties them to the Faceless Beloved ([the-first-face.md](../05-empowered-humans/legendary-figures/the-first-face.md)).
+7. **The Americas run on the rumored Far Accord** (mutual divine ignorance) and trade through the godless Free Coasts ([the-americas](../07-geography/the-americas/_index.md)).
+8. **Heresy-by-unmaking was codified after the Crimson Apostasy** (~800 ya) ([event](../01-foundation/events/the-crimson-apostasy.md)).
+9. **The Backward Saint is named Sister Amaranth** and kept by the Amaranthine Watch near Haven's Rest ([character](../13-characters/sister-amaranth.md)).
+10. **Crane's Shadow / gods-can-be-killed tension** *(pre-existing, note 1 above)* is deliberately untouched by the new files.

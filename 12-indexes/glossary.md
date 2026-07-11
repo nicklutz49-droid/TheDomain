@@ -31,4 +31,22 @@ type: index
 | Universal Language | Domain-provided real-time spoken translation | [→](../02-the-domain/the-domain.md) |
 | Wound | Largest glitch zone, in central/eastern Europe | [→](../06-threats-and-anomalies/glitch-zones/the-wound.md) |
 
+## Post-source draft terms †
+
+| Term | Definition | File |
+|---|---|---|
+| AC (After Concordance) | Year count from the Concordance; present ≈ 2,096 AC | [→](../08-civilization/calendar.md) |
+| Bare Days | Confederacy custom: masks off during the Still Days | [→](../08-civilization/calendar.md) |
+| Centenary Conclave | The Twelve's century-summit; next in 2,100 AC | [→](../09-power-and-conflict/politics/divine-politics.md) |
+| Chain of Service | Imperial oath-lattice codified by Hadrik (canon term, expanded) | [→](../13-characters/hadrik-the-chainwright.md) |
+| Far Accord | Rumored ancient pact of mutual ignorance with the Americas' gods | [→](../07-geography/the-americas/_index.md) |
+| Fog Understanding | Unwritten Free Fleets–Gray Fleet grain truce | [→](../13-characters/kesari-ondo.md) |
+| Glass Flats | Minor glitch zone left by the Battle of Red Sands | [→](../01-foundation/events/battle-of-red-sands.md) |
+| Great Ledger | The Confederacy's informal reckoning of all debts | [→](../09-power-and-conflict/politics/confederacy-debt-politics.md) |
+| Mirror-tithe | Mirror Throne tribute: hours spent being seen | [→](../07-geography/the-americas/mirror-throne.md) |
+| Shatterbelt | Micro-glitch-zone chain along the old Shatter War front; de facto DMZ | [→](../01-foundation/events/the-shatter-war.md) |
+| Still Days | Five moon-dark intercalary days ending the year | [→](../08-civilization/calendar.md) |
+| Threefold Testimony | Three uncorrected witness journals of the Verantum Ascension | [→](../01-foundation/events/the-verantum-ascension.md) |
+| Wound Watch / Western Watch | The Empire's Wound-frontier command | [→](../13-characters/roswitha-kravenhold.md) |
+
 Add new terms alphabetically as they're canonized.
