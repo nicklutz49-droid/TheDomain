@@ -18,4 +18,10 @@
   - **Geography:** new `07-geography/the-americas/` — Mirror Throne, Roothold, the Free Coasts.
   - Key new rulings logged in [continuity-notes.md](continuity-notes.md) § "Draft canon decisions."
 
+- **v3 — Expansion wave 2 (this commit).** Short fiction and remaining rebuilds:
+  - **Tales:** new `11-story/tales/` — eight short stories of figures and anomalies (The Third Offer; A Letter to Grandmother; Deposition D-41; The Scribe's First Day; The Early Boat; What the Widow Kept; The Black Road; The Second Cup), each backlinked from the entities they illuminate.
+  - **Factions:** the Gray Fleet promoted to its own file (the Gray Compact, Quartermaster Sefa Adaro).
+  - **Civilization:** medicine & disease and drugs & vices rebuilt — all cut categories now restored except the Undercroft and anomalous Hollows.
+  - New rulings logged in [continuity-notes.md](continuity-notes.md) § "Draft canon decisions (expansion wave 2)."
+
 Record future significant changes here (new canon, retcons, resolved contradictions).

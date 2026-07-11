@@ -41,7 +41,7 @@ Children of the First Light · the Mask-Weavers · the Silence Guardians
 |---|---|---|
 | The Coinless / The Silence / The Smokehouse / The Flesh Trade | Empire | [Underworld](../09-power-and-conflict/criminal-underworld.md) |
 | The Freedom Network | Union | [Underworld](../09-power-and-conflict/criminal-underworld.md) |
-| The Gray Fleet | Confederacy | [Underworld](../09-power-and-conflict/criminal-underworld.md) |
+| The Gray Fleet † (own file: the Gray Compact, Quartermaster Adaro) | Confederacy | [→](../09-power-and-conflict/the-gray-fleet.md) |
 | Silk Passage Syndicate | cross-power | [Underworld](../09-power-and-conflict/criminal-underworld.md) |
 | Relic Traffickers | cross-power | [Underworld](../09-power-and-conflict/criminal-underworld.md) |
 

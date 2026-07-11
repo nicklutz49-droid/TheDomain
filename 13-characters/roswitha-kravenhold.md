@@ -44,5 +44,5 @@ the first move of a very dangerous game.
 
 ## Open threads
 
-- The Grandfather's third offer. (The first was her arm back; the second was her sergeant back. She has confirmed only that there was a third.)
+- The Grandfather's third offer. (The first was her arm back; the second was her sergeant back. She has confirmed only that there was a third.) *Told in full in the tale [The Third Offer](../11-story/tales/the-third-offer.md) — restricted.*
 - If the Wound's real growth rate is *slower* than reported — who profits from a frightened Empire, and are they human?

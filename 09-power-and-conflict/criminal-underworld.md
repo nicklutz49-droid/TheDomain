@@ -25,7 +25,7 @@ status: canon
 ## Confederacy: debt crime
 
 - Debt forgery
-- Piracy — the **Gray Fleet**
+- Piracy — the **[Gray Fleet](the-gray-fleet.md)** *(promoted to its own file: the Gray Compact, debt-outlaws, Quartermaster Adaro)*
 - Mask black market (upstream: the [Mask-Weavers](secret-societies/the-mask-weavers.md))
 
 ## Cross-power

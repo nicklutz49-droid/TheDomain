@@ -44,3 +44,6 @@ matching the canon founding date).
 ## Open threads
 
 - Two hundred thousand people watched a sealing and remember an ascension. Somewhere among their descendants, family stories don't match the holiday. Folk memory as evidence trail.
+
+*Tale: [A Letter to Grandmother](../../11-story/tales/a-letter-to-grandmother.md) —
+the child's volume of the Threefold Testimony.*

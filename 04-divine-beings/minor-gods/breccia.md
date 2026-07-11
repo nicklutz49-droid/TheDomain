@@ -51,4 +51,4 @@ survey-grade accuracy.
 
 ## Open threads
 
-- Her "dream roads" all run toward places that no longer appear on maps. Someone following one to its end is a ready-made expedition seed.
+- Her "dream roads" all run toward places that no longer appear on maps. Someone following one to its end is a ready-made expedition seed. *Tale: [The Black Road](../../11-story/tales/the-black-road.md) — one road, one buried door, god-script on a milestone.*

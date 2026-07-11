@@ -49,7 +49,7 @@ their directory; this page links the major entry points.
 ## Civilization
 - [Daily Life](08-civilization/daily-life.md) · [Technology](08-civilization/technology.md) · [Economics](08-civilization/economics.md) · [Education](08-civilization/education.md)
 - [Religion](08-civilization/religion.md) · [Arts](08-civilization/arts.md) · [Family & Kinship](08-civilization/family-and-kinship.md) · [Death & Afterlife](08-civilization/death-and-afterlife.md)
-- † [Calendar](08-civilization/calendar.md) · [Festivals](08-civilization/festivals-and-holidays.md) · [Cuisine](08-civilization/cuisine.md) · [Sports & Games](08-civilization/sports-and-games.md) · [Architecture](08-civilization/architecture.md) · [Customs & Etiquette](08-civilization/customs-and-etiquette.md)
+- † [Calendar](08-civilization/calendar.md) · [Festivals](08-civilization/festivals-and-holidays.md) · [Cuisine](08-civilization/cuisine.md) · [Sports & Games](08-civilization/sports-and-games.md) · [Architecture](08-civilization/architecture.md) · [Customs & Etiquette](08-civilization/customs-and-etiquette.md) · [Medicine & Disease](08-civilization/medicine-and-disease.md) · [Drugs & Vices](08-civilization/drugs-and-vices.md)
 
 ## Power and Conflict
 - [Military & Warfare](09-power-and-conflict/military.md)
@@ -65,6 +65,7 @@ their directory; this page links the major entry points.
 
 ## Story
 - [Central Mysteries](11-story/central-mysteries.md) · [Narrative Seeds](11-story/narrative-seeds.md) · [Character Archetypes](11-story/character-archetypes.md)
+- [Tales from the Domain](11-story/tales/_index.md) † — eight short stories of figures and anomalies
 - [Drafts](11-story/drafts/) — workspace for new stories
 
 ## Characters

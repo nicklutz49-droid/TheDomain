@@ -58,3 +58,11 @@ consistent with source canon but not required by it:
 8. **Heresy-by-unmaking was codified after the Crimson Apostasy** (~800 ya) ([event](../01-foundation/events/the-crimson-apostasy.md)).
 9. **The Backward Saint is named Sister Amaranth** and kept by the Amaranthine Watch near Haven's Rest ([character](../13-characters/sister-amaranth.md)).
 10. **Crane's Shadow / gods-can-be-killed tension** *(pre-existing, note 1 above)* is deliberately untouched by the new files.
+
+## Draft canon decisions (expansion wave 2 — tales and rebuilds)
+
+11. **The Grandfather's third offer** was free: the truth of what the Wound is *for*. Kravenhold refused; the offer keeps ([tale](../11-story/tales/the-third-offer.md)). This implies the Wound has a purpose — a major GM lever, currently uncommitted.
+12. **Reef-coast early-boat customs**: ships returning before they sail may be observed and counted but never hailed or prevented ([tale](../11-story/tales/the-early-boat.md)).
+13. **The Gray Fleet runs on the Gray Compact**; Quartermaster Sefa Adaro keeps the Fog Understanding's pirate side ([the-gray-fleet.md](../09-power-and-conflict/the-gray-fleet.md)).
+14. **Medicine and drugs rebuilt** ([medicine-and-disease.md](../08-civilization/medicine-and-disease.md), [drugs-and-vices.md](../08-civilization/drugs-and-vices.md)): named conditions (static fever, glitch-sickness, Hollow-touch, threshold syndrome) and substances (glowdust, still-water, echo-resin, spark, mirror-smoke). Still-water's real mechanism is deliberately undecided.
+15. **Tales are texture, not automatic canon** — unreliable narrators allowed; facts a tale establishes are logged here ([tales conventions](../11-story/tales/_index.md)).

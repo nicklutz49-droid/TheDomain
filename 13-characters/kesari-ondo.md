@@ -24,7 +24,8 @@ reason: her convoys arrive.
 
 ## The Understanding (restricted)
 
-Eleven years ago, after a famine winter, Ondo met a Gray Fleet quartermaster in a
+Eleven years ago, after a famine winter, Ondo met Quartermaster
+[Sefa Adaro](../09-power-and-conflict/the-gray-fleet.md) of the Gray Fleet in a
 [Maru](../04-divine-beings/minor-gods/maru.md) shrine-house and traded one
 unwritten sentence each: *pirates spare grain ships; the Fleets don't hunt in
 fog.* Hunger stopped being a weapon in Confederacy waters that year. It is also,

@@ -20,3 +20,6 @@ absent from the master zone table.
 - A navy that can exploit this gets free time travel with a shipwreck rate; the Free Fleets must have doctrine (or superstitions) about the Reefs.
 - What happens when a ship meets itself outbound? (Compare [cascade failures](../glitch-phenomena.md): effects before causes.)
 - Needs: threat rating, extent, and charted boundaries.
+
+*Tale: [The Early Boat](../../11-story/tales/the-early-boat.md) — establishes the
+reef-coast early-boat customs (draft): observe, count, never hail, never prevent.*

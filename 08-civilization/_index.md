@@ -24,6 +24,8 @@ Post-source draft additions (†):
 - [Sports and Games](sports-and-games.md) † — rebuilt from the cut category
 - [Architecture](architecture.md) † — rebuilt from the cut category
 - [Customs and Etiquette](customs-and-etiquette.md) † — introductions, gifts, oaths, mourning
+- [Medicine and Disease](medicine-and-disease.md) † — rebuilt from the cut category
+- [Drugs and Vices](drugs-and-vices.md) † — rebuilt from the cut category
 
-*Still awaiting rebuild from the Streamlined Edition cuts: drugs, diseases — see
-[continuity notes](../00-meta/continuity-notes.md).*
+*All Streamlined Edition cut categories now have rebuilds except the Undercroft
+concept and anomalous Hollows — see [continuity notes](../00-meta/continuity-notes.md).*

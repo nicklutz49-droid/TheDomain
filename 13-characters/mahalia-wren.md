@@ -40,5 +40,5 @@ plainly still waiting for the chance to pay it.
 
 ## Open threads
 
-- Y.: [Yrshen](../04-divine-beings/the-twelve/yrshen.md)? [Whisper](../04-divine-beings/minor-gods/whisper.md), whom the desperate meet? A person? The answer defines what the Confederacy's whole debt-order is anchored to.
+- Y.: [Yrshen](../04-divine-beings/the-twelve/yrshen.md)? [Whisper](../04-divine-beings/minor-gods/whisper.md), whom the desperate meet? A person? The answer defines what the Confederacy's whole debt-order is anchored to. *Tale: [The Second Cup](../11-story/tales/the-second-cup.md).*
 - No heir to the web. Death disperses debt — unless bound first. Every faction is courting her at once; she is *letting them*, and taking notes.

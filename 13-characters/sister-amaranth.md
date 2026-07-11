@@ -36,5 +36,5 @@ Watch has not forwarded these to the Archive. They've started arguing about why.
 
 ## Open threads
 
-- Backward from when? If her life runs in reverse, her *birth* lies in our future — plausibly around the [Great Alignment](../03-hidden-truth/the-shriven.md). "There when it all begins" may be simple autobiography.
+- Backward from when? If her life runs in reverse, her *birth* lies in our future — plausibly around the [Great Alignment](../03-hidden-truth/the-shriven.md). "There when it all begins" may be simple autobiography. *Tale: [The Scribe's First Day](../11-story/tales/the-scribes-first-day.md).*
 - "The seat that was saved for me" — the [Concordance's empty thirteenth seat](../01-foundation/events/the-concordance.md) suddenly has a claimant. Is she guessing, remembering, or joking? Her keepers can no longer tell.

@@ -50,3 +50,6 @@ the habitability trial's first long-term resident.
 
 - Danel Ost's sister still files a missing-person renewal every year. What does the Entity do if she gets close?
 - If the doors open again, they open *wider* — the next test needs thousands.
+
+*Tale: [Deposition D-41](../../11-story/tales/deposition-d-41.md) — walker 17's
+testimony, including Ost's last recorded words.*
