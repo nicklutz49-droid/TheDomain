@@ -38,6 +38,8 @@ Every named human in canon. Add new characters here when their file is created.
 | [Corin Ost](../13-characters/corin-ost.md) † | registrar of the Forty Company; threshold syndrome without walking | [→](../13-characters/corin-ost.md) |
 | [Jehan Volle](../13-characters/jehan-volle.md) † | Honor Court prosecutor; three folders from the truth | [→](../13-characters/jehan-volle.md) |
 | [Ren Okafor](../13-characters/ren-okafor.md) † | Circuit prodigy "Wakeless"; played nightly by Held Note | [→](../13-characters/ren-okafor.md) |
+| [Archduchess Elara](../13-characters/archduchess-elara.md) † | reformer heir; taught to ask about mechanisms | [→](../13-characters/archduchess-elara.md) |
+| [Danel Ost](../13-characters/danel-ost.md) † ⚠️ | GM-only: the first resident of Habitat One | [→](../13-characters/danel-ost.md) |
 | "Grandmother" Chen | deadliest assassin alive | [Mercenaries](../09-power-and-conflict/mercenary-companies.md) |
 | Laughing Marcus | Fire Fluxborn, fights for entertainment | [Mercenaries](../09-power-and-conflict/mercenary-companies.md) |
 | The Sisters Three | Fluxborn trio (Light, Shadow, unknown) | [Mercenaries](../09-power-and-conflict/mercenary-companies.md) |

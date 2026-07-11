@@ -22,6 +22,9 @@ setting-texture: in-world accounts, some reliable, some not. All `status: draft`
 | [The Hour of Being Seen](the-hour-of-being-seen.md) | a mirror-tithe goes wrong — the god asks a question | [Tezcamotl](../../04-divine-beings/minor-gods/tezcamotl.md), [the Mirror Throne](../../07-geography/the-americas/mirror-throne.md) |
 | [Walking Pace](walking-pace.md) | a joint patrol counts the Column | [the Shatterbelt](../../01-foundation/events/the-shatter-war.md), [Morrow](../../04-divine-beings/minor-gods/morrow.md) |
 | [Nine Days in the White](nine-days-in-the-white.md) | Ashka's crossing of the Pale Maze, in her own fragments | [Ashka](../../13-characters/ashka-of-the-pale.md), [the Pale Interior](../../07-geography/pale-interior.md) |
+| [The Ninth Game](the-ninth-game.md) | Held Note plays first, loses on purpose, and speaks | [Ren Okafor](../../13-characters/ren-okafor.md), [god-script](../../02-the-domain/god-script.md) |
+| [The Reading Room](the-reading-room.md) | desk eleven and desk twelve compare absences | [Velia Sorn](../../13-characters/velia-sorn.md), [Vesperine](../../04-divine-beings/minor-gods/vesperine.md), [Valdris Crane](../../13-characters/valdris-crane.md) |
+| [The Kept Man](the-kept-man.md) ⚠️ | GM-only: twelve years in Habitat One, letter 625 | [Danel Ost](../../13-characters/danel-ost.md), [the Entity](../../03-hidden-truth/the-entity.md) |
 
 ## Conventions for new tales
 

@@ -40,7 +40,10 @@ corrections made with divine-grade thoroughness. She does not yet know *what* wa
 erased or *who* erased it, only that the record lies. She has begun visiting the
 Meridian Archives' reading rooms as an unremarkable patron, cross-checking
 holdings — where Deputy Archivist
-[Velia Sorn](../../13-characters/velia-sorn.md) is quietly pulling the same files.
+[Velia Sorn](../../13-characters/velia-sorn.md) was quietly pulling the same
+files. They have now met over box VA-1946-Corr-9 and work the corner table
+together; Sorn calls her "the Proofreader" and does not know what she shook
+hands with. Tale: [The Reading Room](../../11-story/tales/the-reading-room.md).
 
 ## Connections
 

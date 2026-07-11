@@ -54,4 +54,5 @@ and the **Shatterbelt** (Anatolia–Levant DMZ —
 |---|---|---|
 | The Moon Core | restricted (the Twelve, Cabal, Lunar Observers know) | [→](../02-the-domain/infrastructure.md) |
 | The Lunar Complex | GM-only | [→](../03-hidden-truth/lunar-complex.md) |
+| Habitat One † | GM-only — one resident, one made-up second suite | [→](../13-characters/danel-ost.md) |
 | The Meridian Archives | public (its curator's society is not) | [→](../09-power-and-conflict/secret-societies/the-cabal.md) |

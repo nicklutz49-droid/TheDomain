@@ -35,5 +35,5 @@ know it) keeps requesting adjacent boxes.
 
 ## Open threads
 
-- Three people are now circling the same erasure — Sorn (procedure), Vesperine (divinity), Crane (possession of the truth). The reading-room collision is the setting's best pending scene.
+- The reading-room collision has happened: Sorn and the gloved reader she has indexed as **"the Proofreader"** now work the corner table together, comparing absences. She does not know her colleague is a god; Crane watched from the gallery and decided nothing. Tale: [The Reading Room](../11-story/tales/the-reading-room.md).
 - When Sorn realizes her provenance trail implicates the Curator's office, does she file it, bury it, or bring it to Crane himself — and which answer does he *want*, given what the Cabal could do with a mind like hers?

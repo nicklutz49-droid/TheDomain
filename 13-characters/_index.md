@@ -28,6 +28,8 @@ The unified list of everyone is the
 | [Corin Ost](corin-ost.md) | registrar of the Forty Company; Danel's sister | Union |
 | [Jehan Volle](jehan-volle.md) | Honor Court prosecutor vs. the Fog Understanding | Confederacy |
 | [Ren Okafor](ren-okafor.md) | Circuit prodigy whose endgames are god-script | Union |
+| [Archduchess Elara](archduchess-elara.md) | the reformer heir; 409 questions not to ask aloud | Empire |
+| [Danel Ost](danel-ost.md) ⚠️ | GM-only: the kept man of Habitat One | none |
 
 ## Historical rulers
 

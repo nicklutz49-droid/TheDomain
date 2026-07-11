@@ -33,3 +33,4 @@ promoted from the Cabal file per vault conventions; draft additions marked.)*
 
 - Which god watched? The answer decides whether the Cabal's endgame is knowledge or revenge — Crane himself may no longer be sure.
 - What does Thessaly's amusement *cost* him when it ends?
+- He has now watched his deputy and the woman with no paper trail join forces over the Tidy Century, and added a third line to his oldest list — a question about the Kept Word. Tale: [The Reading Room](../11-story/tales/the-reading-room.md).

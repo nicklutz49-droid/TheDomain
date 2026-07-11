@@ -5,7 +5,7 @@ type: index
 
 # Deities Index
 
-All named divine beings, across categories. ~300 minor gods exist; 18 are named
+All named divine beings, across categories. ~300 minor gods exist; 21 are named
 († = post-source draft addition).
 
 ## The Twelve
@@ -47,6 +47,9 @@ All named divine beings, across categories. ~300 minor gods exist; 18 are named
 | Vantus † | The Door Warden (the Undercroft) | [→](../04-divine-beings/minor-gods/vantus.md) |
 | Morrow † | The Field After (all armies) | [→](../04-divine-beings/minor-gods/morrow.md) |
 | Sable † | The Kind Dark (dreamless rest) | [→](../04-divine-beings/minor-gods/sable.md) |
+| Brakka † | The Dry Sea (Mediterranean Lowlands) | [→](../04-divine-beings/minor-gods/brakka.md) |
+| Visera † | The Borrowed Face (Confederacy masks) | [→](../04-divine-beings/minor-gods/visera.md) |
+| Lorn † | The Last Lamp (the Silence frontier) | [→](../04-divine-beings/minor-gods/lorn.md) |
 
 ## Sealed gods
 

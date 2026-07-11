@@ -33,4 +33,12 @@
   - **Tales:** The Hour of Being Seen (Mirror Throne), Walking Pace (Shatterbelt), Nine Days in the White (Ashka's crossing) — 11 tales total.
   - New rulings 16–22 logged in [continuity-notes.md](continuity-notes.md).
 
+- **v5 — Expansion wave 4: convergence (this commit).**
+  - **The Convergence** (`11-story/the-convergence.md`): GM-only campaign frame — all running clocks (succession, Conclave, the Number, the Shriven), wildcards, and collision sketches.
+  - **Gods:** Brakka (the Dry Sea), Visera (the Borrowed Face), Lorn (the Last Lamp) — 21 minor gods documented.
+  - **Characters:** Archduchess Elara (with her ex-Cabal tutor) and Danel Ost (GM-only: Habitat One).
+  - **Tales:** The Ninth Game, The Reading Room, The Kept Man — 14 total; three active storylines advanced on the page.
+  - **Politics:** Forty Laws 15–20 written (20 of 40).
+  - Rulings 23–28 logged in [continuity-notes.md](continuity-notes.md).
+
 Record future significant changes here (new canon, retcons, resolved contradictions).

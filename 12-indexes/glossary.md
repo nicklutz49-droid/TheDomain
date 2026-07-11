@@ -52,6 +52,8 @@ type: index
 | Delvers' Guild | Chartered Undercroft explorers; keepers of the map-tithe | [→](../07-geography/the-undercroft.md) |
 | The Forty Company | The Night of Doors walkers' informal circle | [→](../13-characters/corin-ost.md) |
 | The Forty Laws / Surrendered Laws | Schedule One of the Union Charter | [→](../09-power-and-conflict/politics/the-forty-laws.md) |
+| Habitat One | GM-only: the Lunar Complex's occupied civilian suite | [→](../13-characters/danel-ost.md) |
+| Held Note | The unregistered Circuit account that answers Wakeless | [→](../13-characters/ren-okafor.md) |
 | Threefold Testimony | Three uncorrected witness journals of the Verantum Ascension | [→](../01-foundation/events/the-verantum-ascension.md) |
 | Undercroft | The buried pre-collapse strata beneath the cities | [→](../07-geography/the-undercroft.md) |
 | Warm door | A deep Undercroft door that is warm to the touch; never opened | [→](../07-geography/the-undercroft.md) |

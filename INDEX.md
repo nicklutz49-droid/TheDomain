@@ -66,7 +66,8 @@ their directory; this page links the major entry points.
 
 ## Story
 - [Central Mysteries](11-story/central-mysteries.md) · [Narrative Seeds](11-story/narrative-seeds.md) · [Character Archetypes](11-story/character-archetypes.md)
-- [Tales from the Domain](11-story/tales/_index.md) † — eleven short stories of figures and anomalies
+- [The Convergence](11-story/the-convergence.md) † — GM-only campaign frame: the running clocks on one table
+- [Tales from the Domain](11-story/tales/_index.md) † — fourteen short stories of figures and anomalies
 - [Drafts](11-story/drafts/) — workspace for new stories
 
 ## Characters

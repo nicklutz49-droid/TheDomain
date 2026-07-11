@@ -38,7 +38,9 @@ door-to-door **evacuation topology** — the ground-side interface for the
 [civilian habitats](../../03-hidden-truth/lunar-complex.md) it has been building
 into the moon. The mismatched accounts are versioning: forty parallel corridor
 configurations, tested simultaneously. Danel Ost was not lost. He was *kept* —
-the habitability trial's first long-term resident.
+the habitability trial's first long-term resident. (His life there:
+[danel-ost.md](../../13-characters/danel-ost.md) and the tale
+[The Kept Man](../../11-story/tales/the-kept-man.md).)
 
 ## Consequences
 

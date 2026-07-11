@@ -44,3 +44,4 @@ comment: *"Why was the corridor glad?"*
 ## Open threads
 
 - What does the [Entity](../03-hidden-truth/the-entity.md) do about a meticulous, patient woman assembling the most accurate public picture of its evacuation test? The efficient answers are all bad. The interesting answer is a door.
+- *(GM-only: Danel is alive, kept, and writing to her weekly — 625 letters, accepted and undelivered. See [danel-ost.md](danel-ost.md) and [The Kept Man](../11-story/tales/the-kept-man.md). The second suite in Habitat One is made up. It is not hard to guess who the habitat expects.)*

@@ -36,6 +36,10 @@ lines feel *"like the board's already humming and you're agreeing with it."*
 No registration data exists for Held Note. The ladder administrators have
 stopped looking, on advice they can't quite remember receiving.
 
+*The ninth game changed things: Held Note played first, lost on purpose, and —
+after nine silent weeks — sent its first message. One word. Tale:
+[The Ninth Game](../11-story/tales/the-ninth-game.md).*
+
 ## Open threads
 
 - Three recruiters are converging on a teenager: the academies want the instinct, the Cabal wants the notation, and something in the Domain appears to want *the conversation to continue*. Who gets there first is a whole campaign.

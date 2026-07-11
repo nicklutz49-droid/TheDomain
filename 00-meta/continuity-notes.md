@@ -81,3 +81,12 @@ consistent with source canon but not required by it:
 20. **The Forty Laws**: Union Charter Schedule One; 14 written with donor nations, 26 open slots ([the-forty-laws.md](../09-power-and-conflict/politics/the-forty-laws.md)).
 21. **Crossroads** gets a city file: pop. ~250,000 (draft), governed by the Road Court, Conclave host ([crossroads.md](../07-geography/crossroads.md)).
 22. **Tezcamotl's inquiry has gone public** in the Mirror Throne: doctrine now teaches *something hides in the sky's reflection* ([tale](../11-story/tales/the-hour-of-being-seen.md)) — the first mass movement on Earth pointed (unknowingly) at the lunar expansion.
+
+## Draft canon decisions (expansion wave 4 — convergence)
+
+23. **Danel Ost is alive** in Habitat One: the Entity keeps him, never speaks, gives him work, and reads (but does not deliver) his 625 letters. A second suite stands ready ([danel-ost.md](../13-characters/danel-ost.md), [tale](../11-story/tales/the-kept-man.md)).
+24. **The reading-room collision happened**: Sorn and Vesperine now compare absences; Crane observed and has decided nothing. Sorn does not know "the Proofreader" is a god ([tale](../11-story/tales/the-reading-room.md)).
+25. **Held Note broke silence** after nine games: it played first, lost deliberately (leaving a meaningful board), and sent one word — "again." Identity deliberately unresolved: Entity / Calister / Silent Scholar all live options ([tale](../11-story/tales/the-ninth-game.md)).
+26. **Brakka's folded-sea hypothesis**: the Mediterranean may be folded into the Sunken Halls rather than destroyed — the Halls as seam/door ([brakka.md](../04-divine-beings/minor-gods/brakka.md)).
+27. **Visera's registry holds "not yet"** — a donated face whose owner hasn't grown into it: a second independent sign (after the Backward Saint) that time runs more than one way ([visera.md](../04-divine-beings/minor-gods/visera.md)).
+28. **The clocks cluster**: succession (~1–3 y) → Conclave (4 y) → the Pale's zero (~6 y). Mapped with collision sketches in [the-convergence.md](../11-story/the-convergence.md); Kythera's "not yet" is now formally tied to this table.

@@ -36,9 +36,12 @@ minimal supernatural markers.
 | [Vantus](vantus.md) † | The Door Warden | Undercroft thresholds; keeps doors shut on vows older than his memory |
 | [Morrow](morrow.md) † | The Field After | calms battlefields into himself; walks behind the Column |
 | [Sable](sable.md) † | The Kind Dark | dreamless rest; found every dream already tenanted |
+| [Brakka](brakka.md) † | The Dry Sea | god of the drained Mediterranean; suspects his sea was folded, not lost |
+| [Visera](visera.md) † | The Borrowed Face | masks and roles; keeps one face labeled "not yet" |
+| [Lorn](lorn.md) † | The Last Lamp | the Silence frontier; envies the quiet he guards against |
 
 *† = post-source draft addition — see [conventions](../../00-meta/conventions.md).*
 
-~300 minor gods exist; 18 are documented — most remain unwritten. New entries
+~300 minor gods exist; 21 are documented — most remain unwritten. New entries
 welcome: use the [deity template](../../00-meta/templates/deity.md), category
 `minor-god`.
