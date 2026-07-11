@@ -30,12 +30,17 @@ worldbuilding opportunity.
 - **House Kravenhold's "western frontier"** (§22): the Wound sits on the Empire's *east*, yet the Wound-guarding house is called western. Most plausible reading: Kravenhold holds the Wound's western edge. Pin down when mapping.
 - **The Garden vs. the Bleeding Forest:** a 50-sq-mile single-organism persistent Hollow (§19, location unstated) and a "biological" glitch zone in West Africa (§20). Same phenomenon, related, or distinct? Needs a ruling.
 
-## Content removed from earlier editions (candidates for rebuilding)
+## Content removed from earlier editions — rebuild status
 
-Per the source's revision history, the Streamlined Edition cut: the **Undercroft**
-concept, anomalous Hollows, sports, food/cuisine, architectural styles, drugs,
-diseases, and detailed military/member-state breakdowns. These are natural
-expansion targets — recover or rebuild them under the matching directories.
+Per the source's revision history, the Streamlined Edition cut several categories.
+All now have draft rebuilds (†): the **Undercroft**
+([the-undercroft.md](../07-geography/the-undercroft.md)), **anomalous Hollows**
+([anomalous-hollows.md](../06-threats-and-anomalies/hollow/anomalous-hollows.md)),
+**sports**, **cuisine**, **architecture**, **drugs**, and **diseases** (all under
+`08-civilization/`). Note: these are reconstructions, not recoveries — the
+original cut text was never available, so the rebuilds are new inventions under
+the old category names. Detailed military/member-state breakdowns remain the one
+un-rebuilt cut (partial coverage via the politics files and the Forty Laws).
 
 ## Vault-side changes from the source (deliberate, non-canon-affecting)
 
@@ -66,3 +71,13 @@ consistent with source canon but not required by it:
 13. **The Gray Fleet runs on the Gray Compact**; Quartermaster Sefa Adaro keeps the Fog Understanding's pirate side ([the-gray-fleet.md](../09-power-and-conflict/the-gray-fleet.md)).
 14. **Medicine and drugs rebuilt** ([medicine-and-disease.md](../08-civilization/medicine-and-disease.md), [drugs-and-vices.md](../08-civilization/drugs-and-vices.md)): named conditions (static fever, glitch-sickness, Hollow-touch, threshold syndrome) and substances (glowdust, still-water, echo-resin, spark, mirror-smoke). Still-water's real mechanism is deliberately undecided.
 15. **Tales are texture, not automatic canon** — unreliable narrators allowed; facts a tale establishes are logged here ([tales conventions](../11-story/tales/_index.md)).
+
+## Draft canon decisions (expansion wave 3 — entities, Undercroft, the Pale)
+
+16. **The Undercroft** is the continuous buried pre-collapse strata beneath major cities; universal rule: *never open a warm door*. GM-tier: ARIA's ground-side command center is down there somewhere ([the-undercroft.md](../07-geography/the-undercroft.md)).
+17. **Vantus, Morrow, Sable** join the minor gods, each carrying a GM-tier edge: Vantus as plausible access-control fragment, Morrow as glitch-zone prevention via self-transfer (and the Shatterbelt Column's follower), Sable as empirical witness to the Entity's dream tenancy.
+18. **Anomalous Hollows ("Class A")** rebuilt: pro-social Hollows (Lamplighter, Stitchers, Census, Apology) as evidence for Ithrazel's "something trying to exist."
+19. **The Pale runs a daily countdown** (the Descending Liturgy): ~2,190 at present, reaching zero ~2,102 AC — two years *after* the Centenary Conclave. The Pale Maze responds to sung tone (it is machinery) ([pale-interior.md](../07-geography/pale-interior.md), [tale](../11-story/tales/nine-days-in-the-white.md)).
+20. **The Forty Laws**: Union Charter Schedule One; 14 written with donor nations, 26 open slots ([the-forty-laws.md](../09-power-and-conflict/politics/the-forty-laws.md)).
+21. **Crossroads** gets a city file: pop. ~250,000 (draft), governed by the Road Court, Conclave host ([crossroads.md](../07-geography/crossroads.md)).
+22. **Tezcamotl's inquiry has gone public** in the Mirror Throne: doctrine now teaches *something hides in the sky's reflection* ([tale](../11-story/tales/the-hour-of-being-seen.md)) — the first mass movement on Earth pointed (unknowingly) at the lunar expansion.

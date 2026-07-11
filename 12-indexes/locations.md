@@ -19,6 +19,8 @@ type: index
 | The Mirror Throne † | Tezcamotl's surveillance theocracy | [→](../07-geography/the-americas/mirror-throne.md) |
 | Roothold † | Grandmother Cedar's forest confederation | [→](../07-geography/the-americas/roothold.md) |
 | The Free Coasts † | godless-by-charter harbor league | [→](../07-geography/the-americas/the-free-coasts.md) |
+| The Undercroft † | buried pre-collapse strata beneath the cities | [→](../07-geography/the-undercroft.md) |
+| The Pale Interior † | the Bright Terraces, the drowned coast | [→](../07-geography/pale-interior.md) |
 
 ## Cities
 
@@ -34,7 +36,7 @@ type: index
 | Persian Gate | — | Union | name only |
 | Western Shore | — | Union | name only |
 | Resonance City | — | Confederacy | major Architect training center |
-| Crossroads | — | Silk Passage | name only |
+| Crossroads † | ~250,000 (draft) | Silk Passage | [own file](../07-geography/crossroads.md): Concordance ground, Road Court, Conclave host |
 | Haven's Rest | — | Silk Passage | name only |
 | Fort Perseverance | — | Silk Passage | name only |
 

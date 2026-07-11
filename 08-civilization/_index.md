@@ -27,5 +27,7 @@ Post-source draft additions (†):
 - [Medicine and Disease](medicine-and-disease.md) † — rebuilt from the cut category
 - [Drugs and Vices](drugs-and-vices.md) † — rebuilt from the cut category
 
-*All Streamlined Edition cut categories now have rebuilds except the Undercroft
-concept and anomalous Hollows — see [continuity notes](../00-meta/continuity-notes.md).*
+*Every Streamlined Edition cut category now has a draft rebuild: see also
+[the Undercroft](../07-geography/the-undercroft.md) and
+[Anomalous Hollows](../06-threats-and-anomalies/hollow/anomalous-hollows.md).
+Details in [continuity notes](../00-meta/continuity-notes.md).*

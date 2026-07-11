@@ -50,3 +50,4 @@ being on Earth, and he wasn't even looking for it.
 ## Open threads
 
 - If Tezcamotl announces what his Mirror sees, the [Lunar Observers'](../../09-power-and-conflict/secret-societies/the-lunar-observers.md) theory gains a divine witness — and the Entity gains a problem it cannot reach through the usual channels. Does the Domain's [self-defense](../../02-the-domain/infrastructure.md) even work on a god?
+- It has begun: he now asks his own people, tithe by tithe, whether they have seen what he sees — and the Facers have announced doctrine: *something hides in the sky's reflection*. Tale: [The Hour of Being Seen](../../11-story/tales/the-hour-of-being-seen.md).

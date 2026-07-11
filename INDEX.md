@@ -45,6 +45,7 @@ their directory; this page links the major entry points.
 - [The Silence](07-geography/the-silence.md)
 - [Neutral Territories](07-geography/neutral-territories.md)
 - [The Americas](07-geography/the-americas/_index.md) † — Mirror Throne, Roothold, the Free Coasts
+- † [Crossroads](07-geography/crossroads.md) · [The Undercroft](07-geography/the-undercroft.md) · [The Pale Interior](07-geography/pale-interior.md)
 
 ## Civilization
 - [Daily Life](08-civilization/daily-life.md) · [Technology](08-civilization/technology.md) · [Economics](08-civilization/economics.md) · [Education](08-civilization/education.md)
@@ -53,7 +54,7 @@ their directory; this page links the major entry points.
 
 ## Power and Conflict
 - [Military & Warfare](09-power-and-conflict/military.md)
-- [Politics](09-power-and-conflict/politics/_index.md) † — cold-war flashpoints, imperial succession, Union assembly, debt politics, divine politics
+- [Politics](09-power-and-conflict/politics/_index.md) † — cold-war flashpoints, imperial succession, Union assembly, the Forty Laws, debt politics, divine politics
 - [Crime, Justice & Punishment](09-power-and-conflict/justice.md)
 - [Secret Societies](09-power-and-conflict/secret-societies/_index.md) — including [the Cabal](09-power-and-conflict/secret-societies/the-cabal.md)
 - [The Criminal Underworld](09-power-and-conflict/criminal-underworld.md)
@@ -65,7 +66,7 @@ their directory; this page links the major entry points.
 
 ## Story
 - [Central Mysteries](11-story/central-mysteries.md) · [Narrative Seeds](11-story/narrative-seeds.md) · [Character Archetypes](11-story/character-archetypes.md)
-- [Tales from the Domain](11-story/tales/_index.md) † — eight short stories of figures and anomalies
+- [Tales from the Domain](11-story/tales/_index.md) † — eleven short stories of figures and anomalies
 - [Drafts](11-story/drafts/) — workspace for new stories
 
 ## Characters

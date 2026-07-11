@@ -24,4 +24,13 @@
   - **Civilization:** medicine & disease and drugs & vices rebuilt — all cut categories now restored except the Undercroft and anomalous Hollows.
   - New rulings logged in [continuity-notes.md](continuity-notes.md) § "Draft canon decisions (expansion wave 2)."
 
+- **v4 — Expansion wave 3 (this commit).** New entities plus all wave-3 suggestions:
+  - **Gods:** Vantus (the Door Warden), Morrow (the Field After), Sable (the Kind Dark) — 18 minor gods now documented.
+  - **Geography:** the Undercroft reconstructed (the last cut concept); the Pale Interior (life under Palladia, the Descending Liturgy); Crossroads city file.
+  - **Creatures:** anomalous Hollows ("Class A") rebuilt — Lamplighter, Stitchers, Census, the Apology.
+  - **Politics:** the Forty Laws (Union Charter Schedule One, 14 of 40 written).
+  - **Characters:** Corin Ost, Jehan Volle, Ren Okafor.
+  - **Tales:** The Hour of Being Seen (Mirror Throne), Walking Pace (Shatterbelt), Nine Days in the White (Ashka's crossing) — 11 tales total.
+  - New rulings 16–22 logged in [continuity-notes.md](continuity-notes.md).
+
 Record future significant changes here (new canon, retcons, resolved contradictions).

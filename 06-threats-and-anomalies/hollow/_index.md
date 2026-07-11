@@ -24,10 +24,11 @@ manifestations of system errors taking horrifying form.
 - [System-Born Hollows](system-born.md) — Class II–V: Geometrics, Null Entities, Static Swarms
 - [Military-Scale Hollows](military-scale.md) — Class III–IV: Siege Maws, the Procession, Brood Mothers, Mirror Legions
 - [Persistent Hollows](persistent/_index.md) — Class V named entities: the Grandfather, the Choir, the Patient One, the Garden
+- [Anomalous Hollows](anomalous-hollows.md) † — "Class A": the Lamplighter, Stitchers, the Census, the Apology — Hollows that *give*
 
 Entries in category files can be promoted to their own files as they grow (leave a
-link behind). The Streamlined Edition **removed "anomalous Hollows"** — a whole
-category awaiting reconstruction; see
+link behind). The anomalous category — cut from the Streamlined Edition — has been
+reconstructed as a draft (†); see
 [continuity notes](../../00-meta/continuity-notes.md).
 
 ## Cross-references

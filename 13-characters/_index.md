@@ -25,6 +25,9 @@ The unified list of everyone is the
 | [Kesari Ondo](kesari-ondo.md) | Free Fleets admiral | Confederacy |
 | [Sister Amaranth](sister-amaranth.md) | the Backward Saint *(canon figure, draft name)* | unaffiliated |
 | [Ashka of the Pale](ashka-of-the-pale.md) | the only known Pale escapee | unaffiliated |
+| [Corin Ost](corin-ost.md) | registrar of the Forty Company; Danel's sister | Union |
+| [Jehan Volle](jehan-volle.md) | Honor Court prosecutor vs. the Fog Understanding | Confederacy |
+| [Ren Okafor](ren-okafor.md) | Circuit prodigy whose endgames are god-script | Union |
 
 ## Historical rulers
 

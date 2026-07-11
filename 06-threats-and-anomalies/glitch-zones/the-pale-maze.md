@@ -19,5 +19,5 @@ The maze of impenetrable glitch zones that has sealed the
 ## Open threads
 
 - The maze *formed* — spontaneously, or was it made? Nothing else in canon walls off a region so conveniently/catastrophically. Candidates: accident, the Twelve, Palladia herself, the Entity.
-- "Maze" implies it can be threaded. Someone escaping the Pale is a listed narrative seed — so there's a way through.
+- "Maze" implies it can be threaded. [Ashka](../../13-characters/ashka-of-the-pale.md) proved it — and her method matters: the Maze *responds to sung tone* like the Pale's grown technology, i.e., it is machinery ([Nine Days in the White](../../11-story/tales/nine-days-in-the-white.md), draft).
 - What do the barriers look like from inside? The Pale teaches the outside world as *myth*.

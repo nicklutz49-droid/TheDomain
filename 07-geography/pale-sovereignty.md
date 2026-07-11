@@ -39,4 +39,8 @@ civilizations.
 ## Open threads
 
 - Two centuries is ~8 human generations of divergence — language drift (does the universal translator still work through the maze?), doctrine, and biology.
-- Canonical narrative seed: someone escapes the Pale with knowledge of what Palladia is planning.
+- Canonical narrative seed: someone escapes the Pale with knowledge of what Palladia is planning — realized as [Ashka](../13-characters/ashka-of-the-pale.md).
+
+*Interior detail (draft): [The Pale Interior](pale-interior.md) — the Bright
+Terraces, the castes, the Radiance, the Descending Liturgy, and the drowned
+coast. Tale: [Nine Days in the White](../11-story/tales/nine-days-in-the-white.md).*

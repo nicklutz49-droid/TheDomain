@@ -25,7 +25,8 @@ Lumen-Trees · Iron-Vines · Ghost-Grass · Prism-Petals · Anchor-Oaks —
 Cloud-Rays · Glass-Lizards · Echo-Birds · Static-Wolves · Compass-Hounds ·
 Void-Gazers — [Ecology](../10-supplementary/ecology.md)
 
-## Removed category
+## Anomalous Hollows ("Class A") †
 
-**Anomalous Hollows** were cut in the Streamlined Edition — an open slot for
-reconstruction ([continuity notes](../00-meta/continuity-notes.md)).
+The Lamplighter · Stitchers · the Census · the Apology —
+[Anomalous Hollows](../06-threats-and-anomalies/hollow/anomalous-hollows.md),
+reconstructing the category cut from the Streamlined Edition.

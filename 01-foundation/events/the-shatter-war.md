@@ -34,3 +34,4 @@ into [Fluxborn recruitment](../../05-empowered-humans/fluxborn.md) instead of ar
 ## Open threads
 
 - The Procession from the Grey Harvest was destroyed — officially. Border garrisons still report a column walking the Shatterbelt on moonless nights, always at the same pace, always the same direction. Toward what?
+- Behind the last rank walks a figure with a waterskin: [Morrow](../../04-divine-beings/minor-gods/morrow.md), who did not reach the Grey Harvest in time and has followed his failure for 274 years. Tale: [Walking Pace](../../11-story/tales/walking-pace.md).

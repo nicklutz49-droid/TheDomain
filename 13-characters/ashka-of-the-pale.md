@@ -46,5 +46,5 @@ thin across the Maze.
 
 ## Open threads
 
-- The daily number: countdown to what — the barriers falling, or something Palladia means to finish *before* they do?
+- The daily number: countdown to what — the barriers falling, or something Palladia means to finish *before* they do? (Full context: [the Pale Interior](../07-geography/pale-interior.md); her crossing: [Nine Days in the White](../11-story/tales/nine-days-in-the-white.md).)
 - The seed-tool answers Ashka's voice. It has recently begun, very quietly, answering on its own — a half-tone, at dusk, facing east. Toward the Pale, or toward the moon? Depends on the season, which is worse.

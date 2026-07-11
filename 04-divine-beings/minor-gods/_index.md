@@ -33,9 +33,12 @@ minimal supernatural markers.
 | [Selvane](selvane.md) † | The Turning Season | Ganges monsoon; her weather is drifting off her control |
 | [Tezcamotl](tezcamotl.md) † | The Obsidian Mirror | Americas god-king; his mirror watches the moon |
 | [Grandmother Cedar](grandmother-cedar.md) † | The Rooted Sky | Americas god-queen; grew her grove on a relay |
+| [Vantus](vantus.md) † | The Door Warden | Undercroft thresholds; keeps doors shut on vows older than his memory |
+| [Morrow](morrow.md) † | The Field After | calms battlefields into himself; walks behind the Column |
+| [Sable](sable.md) † | The Kind Dark | dreamless rest; found every dream already tenanted |
 
 *† = post-source draft addition — see [conventions](../../00-meta/conventions.md).*
 
-~300 minor gods exist; 15 are documented — most remain unwritten. New entries
+~300 minor gods exist; 18 are documented — most remain unwritten. New entries
 welcome: use the [deity template](../../00-meta/templates/deity.md), category
 `minor-god`.

@@ -13,6 +13,9 @@ type: index
 - [The Silence](the-silence.md) — the natural deadzone (Patagonia)
 - [Neutral Territories](neutral-territories.md) — the Silk Passage, the Americas overview, impassable regions
 - [The Americas](the-americas/_index.md) † — the god-ruled west: Mirror Throne, Roothold, the Free Coasts
+- [Crossroads](crossroads.md) † — the Concordance city; the Road Court; Conclave host in four years
+- [The Undercroft](the-undercroft.md) † — the buried pre-collapse strata beneath the cities
+- [The Pale Interior](pale-interior.md) † — life under Palladia: the Terraces, the Attuned, the Number
 
 See also the [Locations cross-index](../12-indexes/locations.md) and
 [Glitch Zones](../06-threats-and-anomalies/glitch-zones/_index.md).

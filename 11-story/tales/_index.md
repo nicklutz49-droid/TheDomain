@@ -19,6 +19,9 @@ setting-texture: in-world accounts, some reliable, some not. All `status: draft`
 | [What the Widow Kept](what-the-widow-kept.md) | an Echo in a cellar | [Echoes](../../06-threats-and-anomalies/hollow/common-hollows.md), [death customs](../../08-civilization/death-and-afterlife.md) |
 | [The Black Road](the-black-road.md) | a pilgrim takes a shortcut | [Breccia](../../04-divine-beings/minor-gods/breccia.md), [pilgrimage](../../10-supplementary/pilgrimage.md) |
 | [The Second Cup](the-second-cup.md) | the Debt-Mother on a Bare Day | [Mahalia Wren](../../13-characters/mahalia-wren.md), [the Still Days](../../08-civilization/calendar.md) |
+| [The Hour of Being Seen](the-hour-of-being-seen.md) | a mirror-tithe goes wrong — the god asks a question | [Tezcamotl](../../04-divine-beings/minor-gods/tezcamotl.md), [the Mirror Throne](../../07-geography/the-americas/mirror-throne.md) |
+| [Walking Pace](walking-pace.md) | a joint patrol counts the Column | [the Shatterbelt](../../01-foundation/events/the-shatter-war.md), [Morrow](../../04-divine-beings/minor-gods/morrow.md) |
+| [Nine Days in the White](nine-days-in-the-white.md) | Ashka's crossing of the Pale Maze, in her own fragments | [Ashka](../../13-characters/ashka-of-the-pale.md), [the Pale Interior](../../07-geography/pale-interior.md) |
 
 ## Conventions for new tales
 

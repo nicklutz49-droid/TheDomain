@@ -5,7 +5,7 @@ type: index
 
 # Deities Index
 
-All named divine beings, across categories. ~300 minor gods exist; 15 are named
+All named divine beings, across categories. ~300 minor gods exist; 18 are named
 († = post-source draft addition).
 
 ## The Twelve
@@ -44,6 +44,9 @@ All named divine beings, across categories. ~300 minor gods exist; 15 are named
 | Selvane † | The Turning Season (Ganges monsoon) | [→](../04-divine-beings/minor-gods/selvane.md) |
 | Tezcamotl † | The Obsidian Mirror (Americas god-king) | [→](../04-divine-beings/minor-gods/tezcamotl.md) |
 | Grandmother Cedar † | The Rooted Sky (Americas god-queen) | [→](../04-divine-beings/minor-gods/grandmother-cedar.md) |
+| Vantus † | The Door Warden (the Undercroft) | [→](../04-divine-beings/minor-gods/vantus.md) |
+| Morrow † | The Field After (all armies) | [→](../04-divine-beings/minor-gods/morrow.md) |
+| Sable † | The Kind Dark (dreamless rest) | [→](../04-divine-beings/minor-gods/sable.md) |
 
 ## Sealed gods
 

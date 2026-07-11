@@ -35,6 +35,9 @@ Every named human in canon. Add new characters here when their file is created.
 | [Sister Amaranth](../13-characters/sister-amaranth.md) | the Backward Saint (canon figure, draft name) | [→](../13-characters/sister-amaranth.md) |
 | [Ashka of the Pale](../13-characters/ashka-of-the-pale.md) † | the only known Pale escapee | [→](../13-characters/ashka-of-the-pale.md) |
 | Sefa Adaro † | Gray Fleet quartermaster; keeper of the Fog Understanding | [The Gray Fleet](../09-power-and-conflict/the-gray-fleet.md) |
+| [Corin Ost](../13-characters/corin-ost.md) † | registrar of the Forty Company; threshold syndrome without walking | [→](../13-characters/corin-ost.md) |
+| [Jehan Volle](../13-characters/jehan-volle.md) † | Honor Court prosecutor; three folders from the truth | [→](../13-characters/jehan-volle.md) |
+| [Ren Okafor](../13-characters/ren-okafor.md) † | Circuit prodigy "Wakeless"; played nightly by Held Note | [→](../13-characters/ren-okafor.md) |
 | "Grandmother" Chen | deadliest assassin alive | [Mercenaries](../09-power-and-conflict/mercenary-companies.md) |
 | Laughing Marcus | Fire Fluxborn, fights for entertainment | [Mercenaries](../09-power-and-conflict/mercenary-companies.md) |
 | The Sisters Three | Fluxborn trio (Light, Shadow, unknown) | [Mercenaries](../09-power-and-conflict/mercenary-companies.md) |

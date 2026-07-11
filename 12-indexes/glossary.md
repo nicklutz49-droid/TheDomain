@@ -46,7 +46,15 @@ type: index
 | Mirror-tithe | Mirror Throne tribute: hours spent being seen | [→](../07-geography/the-americas/mirror-throne.md) |
 | Shatterbelt | Micro-glitch-zone chain along the old Shatter War front; de facto DMZ | [→](../01-foundation/events/the-shatter-war.md) |
 | Still Days | Five moon-dark intercalary days ending the year | [→](../08-civilization/calendar.md) |
+| The Attuned | Pale caste changed by service at the drowned coast | [→](../07-geography/pale-interior.md) |
+| The Number / Descending Liturgy | The Pale's daily countdown; ~2,190 and falling | [→](../07-geography/pale-interior.md) |
+| Class A | Glitch Specialist filing for anomalous (pro-social) Hollows | [→](../06-threats-and-anomalies/hollow/anomalous-hollows.md) |
+| Delvers' Guild | Chartered Undercroft explorers; keepers of the map-tithe | [→](../07-geography/the-undercroft.md) |
+| The Forty Company | The Night of Doors walkers' informal circle | [→](../13-characters/corin-ost.md) |
+| The Forty Laws / Surrendered Laws | Schedule One of the Union Charter | [→](../09-power-and-conflict/politics/the-forty-laws.md) |
 | Threefold Testimony | Three uncorrected witness journals of the Verantum Ascension | [→](../01-foundation/events/the-verantum-ascension.md) |
+| Undercroft | The buried pre-collapse strata beneath the cities | [→](../07-geography/the-undercroft.md) |
+| Warm door | A deep Undercroft door that is warm to the touch; never opened | [→](../07-geography/the-undercroft.md) |
 | Wound Watch / Western Watch | The Empire's Wound-frontier command | [→](../13-characters/roswitha-kravenhold.md) |
 
 Add new terms alphabetically as they're canonized.
