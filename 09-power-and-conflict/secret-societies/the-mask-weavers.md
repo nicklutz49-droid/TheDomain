@@ -21,6 +21,6 @@ exists. The Weavers sit at the root of all of it.
 
 ## Open threads
 
-- Skills and memories *from whom*? Donated, purchased, or taken — a memory economy has victims.
+- Skills and memories *from whom*? Donated, purchased, or taken — a memory economy has victims. *(Partially answered in draft: the face-registry and its divine senior partner, [Visera](../../04-divine-beings/minor-gods/visera.md).)*
 - Mask-stripping is a judicial punishment ([justice](../justice.md)); do the Weavers sanction the courts, or the reverse?
 - What does an unmasked Weaver look like to Confederacy eyes?

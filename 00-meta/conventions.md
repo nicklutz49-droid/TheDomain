@@ -4,7 +4,9 @@ How this vault is organized and how to add to it.
 
 ## File and directory naming
 
-- Directories are numbered to keep reading order: `01-foundation` … `12-indexes`, with `00-meta` first and `99-reference` last.
+- Directories are numbered to keep reading order: `01-foundation` … `13-characters`, with `00-meta` first and `99-reference` last.
+- Character placement: the source bible's legendary empowered humans live in `05-empowered-humans/legendary-figures/`; all characters added since (contemporary cast, historical rulers, new legends of non-empowered people) live in `13-characters/`. The unified list is `12-indexes/characters.md`.
+- Post-source additions carry `status: draft` and a `†` marker in index tables.
 - Files are kebab-case: `the-hollow-king.md`, `iron-hand-marcus.md`.
 - Every directory containing multiple entities has an `_index.md` listing its contents.
 - One file per entity that is expected to grow (a god, a character, a glitch zone, a faction). Small related entries may share a category file (e.g. Class I Hollows) and can be promoted to their own file later — when promoting, leave a link behind in the category file.

@@ -38,5 +38,6 @@ protect the region, and the [Silence Prophecies](../10-supplementary/prophecies-
 ## Open threads
 
 - "The deep will send its knowledge" (Silence Prophecies) — the Silence as humanity's backup drive?
+- † The frontier has a resident god who can never enter: [Lorn — The Last Lamp](../04-divine-beings/minor-gods/lorn.md), whose lantern marks the border and whose envy of the quiet is growing.
 - The [Voice in the Silence](../04-divine-beings/ascended/suspected-ascended.md): guidance in a place no Domain-being should reach.
 - Name collision with the Empire's assassination guild "The Silence" — see [continuity notes](../00-meta/continuity-notes.md).

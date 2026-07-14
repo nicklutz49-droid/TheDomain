@@ -35,7 +35,9 @@ Social taboo: **waste**.
 [Mordrath](../../04-divine-beings/the-twelve/mordrath.md),
 [Syreth](../../04-divine-beings/the-twelve/syreth.md); the minor god
 [Seraphex](../../04-divine-beings/minor-gods/seraphex.md) rules an industrial
-region.
+region. † Also honored: [Cindrath](../../04-divine-beings/minor-gods/cindrath.md)
+in the eastern foundry country and [Brakka](../../04-divine-beings/minor-gods/brakka.md)
+in the Mediterranean Lowlands.
 
 ## Glitch zones
 

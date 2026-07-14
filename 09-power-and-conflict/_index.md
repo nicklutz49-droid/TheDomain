@@ -6,6 +6,7 @@ type: index
 # Part IX — Power and Conflict
 
 - [Military and Warfare](military.md) — doctrines of the three powers, divine intervention rules
+- [Politics](politics/_index.md) — the current moment: cold-war flashpoints, successions, divine factions
 - [Crime, Justice, and Punishment](justice.md) — three legal systems
 - [Secret Societies](secret-societies/_index.md) — the Cabal and six others
 - [The Criminal Underworld](criminal-underworld.md) — guilds, fraud, piracy, cross-power crime

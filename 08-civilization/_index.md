@@ -16,6 +16,18 @@ How people actually live in a world run by hidden machinery.
 - [Marriage, Family, and Kinship](family-and-kinship.md)
 - [Death, Burial, and Afterlife](death-and-afterlife.md)
 
-*Cut from the Streamlined Edition and awaiting rebuild: sports, food/cuisine,
-architectural styles, drugs, diseases — see
-[continuity notes](../00-meta/continuity-notes.md).*
+Post-source draft additions (†):
+
+- [The Calendar](calendar.md) † — years AC, the Still Days, god-months, the six-day hand
+- [Festivals and Holidays](festivals-and-holidays.md) † — the ritual year across all powers
+- [Cuisine and Food Culture](cuisine.md) † — rebuilt from the cut category
+- [Sports and Games](sports-and-games.md) † — rebuilt from the cut category
+- [Architecture](architecture.md) † — rebuilt from the cut category
+- [Customs and Etiquette](customs-and-etiquette.md) † — introductions, gifts, oaths, mourning
+- [Medicine and Disease](medicine-and-disease.md) † — rebuilt from the cut category
+- [Drugs and Vices](drugs-and-vices.md) † — rebuilt from the cut category
+
+*Every Streamlined Edition cut category now has a draft rebuild: see also
+[the Undercroft](../07-geography/the-undercroft.md) and
+[Anomalous Hollows](../06-threats-and-anomalies/hollow/anomalous-hollows.md).
+Details in [continuity notes](../00-meta/continuity-notes.md).*

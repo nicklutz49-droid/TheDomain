@@ -5,7 +5,8 @@ type: index
 
 # Deities Index
 
-All named divine beings, across categories. ~300 minor gods exist; 7 are named.
+All named divine beings, across categories. ~300 minor gods exist; 21 are named
+(† = post-source draft addition).
 
 ## The Twelve
 
@@ -35,6 +36,20 @@ All named divine beings, across categories. ~300 minor gods exist; 7 are named.
 | The Hollow King | — | [→](../04-divine-beings/minor-gods/the-hollow-king.md) |
 | Whisper | The Unnamed | [→](../04-divine-beings/minor-gods/whisper.md) |
 | Palladia | The Eternal (god-queen of the Pale) | [→](../04-divine-beings/minor-gods/palladia.md) |
+| Anverra † | The Gathered Sheaf (Union harvest) | [→](../04-divine-beings/minor-gods/anverra.md) |
+| Vesperine † | The Kept Word (Union archives) | [→](../04-divine-beings/minor-gods/vesperine.md) |
+| Cindrath † | The Quenched Blade (Empire forges) | [→](../04-divine-beings/minor-gods/cindrath.md) |
+| Breccia † | The Laid Stone (Silk Passage roads) | [→](../04-divine-beings/minor-gods/breccia.md) |
+| Maru † | The Thousand Wakes (Confederacy harbors) | [→](../04-divine-beings/minor-gods/maru.md) |
+| Selvane † | The Turning Season (Ganges monsoon) | [→](../04-divine-beings/minor-gods/selvane.md) |
+| Tezcamotl † | The Obsidian Mirror (Americas god-king) | [→](../04-divine-beings/minor-gods/tezcamotl.md) |
+| Grandmother Cedar † | The Rooted Sky (Americas god-queen) | [→](../04-divine-beings/minor-gods/grandmother-cedar.md) |
+| Vantus † | The Door Warden (the Undercroft) | [→](../04-divine-beings/minor-gods/vantus.md) |
+| Morrow † | The Field After (all armies) | [→](../04-divine-beings/minor-gods/morrow.md) |
+| Sable † | The Kind Dark (dreamless rest) | [→](../04-divine-beings/minor-gods/sable.md) |
+| Brakka † | The Dry Sea (Mediterranean Lowlands) | [→](../04-divine-beings/minor-gods/brakka.md) |
+| Visera † | The Borrowed Face (Confederacy masks) | [→](../04-divine-beings/minor-gods/visera.md) |
+| Lorn † | The Last Lamp (the Silence frontier) | [→](../04-divine-beings/minor-gods/lorn.md) |
 
 ## Sealed gods
 
@@ -45,6 +60,7 @@ All named divine beings, across categories. ~300 minor gods exist; 7 are named.
 | Malevictus, the Crimson Heretic | ~800 ya | [→](../04-divine-beings/sealed-gods/malevictus.md) |
 | Chorrus, the Hollow Consort | ~550 ya | [→](../04-divine-beings/sealed-gods/chorrus.md) |
 | Truth-Seeker Axiom-1 | ~275 ya | [→](../04-divine-beings/sealed-gods/axiom-1.md) |
+| Quorion, the Honest Measure † | ~150 ya | [→](../04-divine-beings/sealed-gods/quorion.md) |
 
 ## The Ascended
 

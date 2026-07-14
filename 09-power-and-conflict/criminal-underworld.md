@@ -25,13 +25,13 @@ status: canon
 ## Confederacy: debt crime
 
 - Debt forgery
-- Piracy — the **Gray Fleet**
+- Piracy — the **[Gray Fleet](the-gray-fleet.md)** *(promoted to its own file: the Gray Compact, debt-outlaws, Quartermaster Adaro)*
 - Mask black market (upstream: the [Mask-Weavers](secret-societies/the-mask-weavers.md))
 
 ## Cross-power
 
 - **Silk Passage Syndicate** — smuggling, protection, information brokerage along the [Silk Passage](../07-geography/neutral-territories.md).
-- **Relic Traffickers** — pre-collapse artifacts and forbidden knowledge (prime source: [the Sunken Halls](../06-threats-and-anomalies/glitch-zones/the-sunken-halls.md)).
+- **Relic Traffickers** — pre-collapse artifacts and forbidden knowledge (prime sources: [the Sunken Halls](../06-threats-and-anomalies/glitch-zones/the-sunken-halls.md) and the deep [Undercroft](../07-geography/the-undercroft.md)).
 - **Fluxborn for Hire** — independent [Fluxborn](../05-empowered-humans/fluxborn.md) operating outside legitimate channels.
 
 ## Open threads

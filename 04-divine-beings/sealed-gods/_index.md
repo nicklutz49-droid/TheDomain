@@ -18,6 +18,9 @@ collectively, or a team of skilled [Architects](../../05-empowered-humans/archit
 | [Malevictus](malevictus.md), the Crimson Heretic | ~800 ya | discovered partial truth; tried to spread it |
 | [Chorrus](chorrus.md), the Hollow Consort | ~550 ya | Hollow worship, then fusion |
 | [Truth-Seeker Axiom-1](axiom-1.md) | ~275 ya | discovered too much; sealed preemptively |
+| [Quorion](quorion.md), the Honest Measure † | ~150 ya | publicly demonstrated miracles as mechanism; sealing staged as an ascension |
 
-Note the pattern: half the sealings are truth-suppression, not justice. See
+*† = post-source draft addition.*
+
+Note the pattern: most of the sealings are truth-suppression, not justice. See
 [The Nature of Divinity](../nature-of-divinity.md).

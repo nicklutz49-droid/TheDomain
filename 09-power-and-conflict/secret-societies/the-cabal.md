@@ -28,10 +28,19 @@ achieving **human ascension**.
 
 ## Leadership
 
-**Valdris Crane** — High Curator of the Meridian Archives. Secretly a
-Shadow-affinity [Fluxborn](../../05-empowered-humans/fluxborn.md). His sister was
-killed by Hollow **while a god watched** — the wound the whole organization grew
-around.
+**[Valdris Crane](../../13-characters/valdris-crane.md)** — High Curator of the
+Meridian Archives. Secretly a Shadow-affinity
+[Fluxborn](../../05-empowered-humans/fluxborn.md). His sister was killed by Hollow
+**while a god watched** — the wound the whole organization grew around. *(Full
+character file: [13-characters/valdris-crane.md](../../13-characters/valdris-crane.md).)*
+
+## Origin (draft)
+
+The Cabal formalized ~140 ya around the **Threefold Testimony** — three witness
+journals that escaped the record-correction after the
+[Verantum Ascension](../../01-foundation/events/the-verantum-ascension.md), the
+staged sealing of [Quorion](../../04-divine-beings/sealed-gods/quorion.md). One
+volume of the Testimony is missing from the Cabal's vaults.
 
 ## Structure
 

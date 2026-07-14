@@ -22,8 +22,9 @@ Western continents host myriad unaligned nations — many **directly ruled by go
 Twelve haven't intervened with**. North America was reshaped with a massive inland
 sea. Hundreds of nations, city-states, and tribal territories.
 
-*(This is the largest under-written region in canon: god-kings the Concordance
-doesn't police. Enormous expansion room.)*
+*Now expanded: see [The Americas](the-americas/_index.md) † — the Mirror Throne,
+Roothold, the Free Coasts, and the Far Accord rumor. Hundreds of polities remain
+unwritten.*
 
 ## Impassable regions
 

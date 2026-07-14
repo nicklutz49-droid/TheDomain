@@ -25,7 +25,23 @@ minimal supernatural markers.
 | [The Hollow King](the-hollow-king.md) | — | becoming what he understands |
 | [Whisper](whisper.md) | The Unnamed | may be connected to the Entity |
 | [Palladia](palladia.md) | The Eternal | god-queen of the [Pale](../../07-geography/pale-sovereignty.md); no longer really "minor" |
+| [Anverra](anverra.md) † | The Gathered Sheaf | Union harvest goddess; predictions too perfect |
+| [Vesperine](vesperine.md) † | The Kept Word | Union archives; has found the edited records |
+| [Cindrath](cindrath.md) † | The Quenched Blade | Empire forge god; Seraphex's rival; quiet defiance |
+| [Breccia](breccia.md) † | The Laid Stone | Silk Passage roads; rebuilds highways she can't remember |
+| [Maru](maru.md) † | The Thousand Wakes | Confederacy harbors; banks the Gray Fleet's tithes |
+| [Selvane](selvane.md) † | The Turning Season | Ganges monsoon; her weather is drifting off her control |
+| [Tezcamotl](tezcamotl.md) † | The Obsidian Mirror | Americas god-king; his mirror watches the moon |
+| [Grandmother Cedar](grandmother-cedar.md) † | The Rooted Sky | Americas god-queen; grew her grove on a relay |
+| [Vantus](vantus.md) † | The Door Warden | Undercroft thresholds; keeps doors shut on vows older than his memory |
+| [Morrow](morrow.md) † | The Field After | calms battlefields into himself; walks behind the Column |
+| [Sable](sable.md) † | The Kind Dark | dreamless rest; found every dream already tenanted |
+| [Brakka](brakka.md) † | The Dry Sea | god of the drained Mediterranean; suspects his sea was folded, not lost |
+| [Visera](visera.md) † | The Borrowed Face | masks and roles; keeps one face labeled "not yet" |
+| [Lorn](lorn.md) † | The Last Lamp | the Silence frontier; envies the quiet he guards against |
 
-Only ~300 exist and 7 are documented — most minor gods are unwritten. New entries
+*† = post-source draft addition — see [conventions](../../00-meta/conventions.md).*
+
+~300 minor gods exist; 21 are documented — most remain unwritten. New entries
 welcome: use the [deity template](../../00-meta/templates/deity.md), category
 `minor-god`.

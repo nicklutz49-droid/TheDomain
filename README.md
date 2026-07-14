@@ -32,7 +32,14 @@ unmanageable.
 | `10-supplementary/` | Ecology, weather, prophecy, pilgrimage, labor, outcasts, myth | Part X |
 | `11-story/` | Mysteries, narrative seeds, character archetypes, story drafts | Part X §50 |
 | `12-indexes/` | Cross-reference indexes and glossary | — |
+| `13-characters/` | Contemporary cast and historical rulers (post-source) | — |
 | `99-reference/` | Archived source documents | — |
+
+Post-source additions are marked `status: draft` in frontmatter and `†` in index
+tables. Notable draft sections: `01-foundation/events/`,
+`09-power-and-conflict/politics/`, `07-geography/the-americas/`, and the
+civilization rebuilds (calendar, festivals, cuisine, sports, architecture,
+customs).
 
 ## Growing the setting
 

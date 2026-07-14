@@ -15,7 +15,12 @@ type: index
 | The Pale Sovereignty | isolated theocracy | [→](../07-geography/pale-sovereignty.md) |
 | The Silence | natural deadzone | [→](../07-geography/the-silence.md) |
 | The Silk Passage | neutral trade route | [→](../07-geography/neutral-territories.md) |
-| The Americas | unaligned god-ruled nations | [→](../07-geography/neutral-territories.md) |
+| The Americas | unaligned god-ruled nations | [→](../07-geography/the-americas/_index.md) |
+| The Mirror Throne † | Tezcamotl's surveillance theocracy | [→](../07-geography/the-americas/mirror-throne.md) |
+| Roothold † | Grandmother Cedar's forest confederation | [→](../07-geography/the-americas/roothold.md) |
+| The Free Coasts † | godless-by-charter harbor league | [→](../07-geography/the-americas/the-free-coasts.md) |
+| The Undercroft † | buried pre-collapse strata beneath the cities | [→](../07-geography/the-undercroft.md) |
+| The Pale Interior † | the Bright Terraces, the drowned coast | [→](../07-geography/pale-interior.md) |
 
 ## Cities
 
@@ -31,14 +36,17 @@ type: index
 | Persian Gate | — | Union | name only |
 | Western Shore | — | Union | name only |
 | Resonance City | — | Confederacy | major Architect training center |
-| Crossroads | — | Silk Passage | name only |
+| Crossroads † | ~250,000 (draft) | Silk Passage | [own file](../07-geography/crossroads.md): Concordance ground, Road Court, Conclave host |
 | Haven's Rest | — | Silk Passage | name only |
 | Fort Perseverance | — | Silk Passage | name only |
 
 ## Glitch zones
 
 See the [glitch zone master table](../06-threats-and-anomalies/glitch-zones/_index.md)
-(11 major zones + 2 Confederacy-local).
+(11 major zones + 2 Confederacy-local). Draft additions from the events files †:
+the **Glass Flats** (Arabia — [Red Sands](../01-foundation/events/battle-of-red-sands.md))
+and the **Shatterbelt** (Anatolia–Levant DMZ —
+[Shatter War](../01-foundation/events/the-shatter-war.md)).
 
 ## Celestial / hidden
 
@@ -46,4 +54,5 @@ See the [glitch zone master table](../06-threats-and-anomalies/glitch-zones/_ind
 |---|---|---|
 | The Moon Core | restricted (the Twelve, Cabal, Lunar Observers know) | [→](../02-the-domain/infrastructure.md) |
 | The Lunar Complex | GM-only | [→](../03-hidden-truth/lunar-complex.md) |
+| Habitat One † | GM-only — one resident, one made-up second suite | [→](../13-characters/danel-ost.md) |
 | The Meridian Archives | public (its curator's society is not) | [→](../09-power-and-conflict/secret-societies/the-cabal.md) |
