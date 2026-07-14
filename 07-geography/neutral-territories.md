@@ -34,4 +34,4 @@ unwritten.*
 ## Open threads
 
 - Do the Concordance rules even apply in the Americas? "No interference in rival territories" — but whose territory is a god-king's?
-- The three Silk Passage cities are names only; each wants a file.
+- All three Silk Passage cities now have files †: [Crossroads](crossroads.md), [Haven's Rest](havens-rest.md), [Fort Perseverance](fort-perseverance.md).

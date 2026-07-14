@@ -25,6 +25,8 @@ setting-texture: in-world accounts, some reliable, some not. All `status: draft`
 | [The Ninth Game](the-ninth-game.md) | Held Note plays first, loses on purpose, and speaks | [Ren Okafor](../../13-characters/ren-okafor.md), [god-script](../../02-the-domain/god-script.md) |
 | [The Reading Room](the-reading-room.md) | desk eleven and desk twelve compare absences | [Velia Sorn](../../13-characters/velia-sorn.md), [Vesperine](../../04-divine-beings/minor-gods/vesperine.md), [Valdris Crane](../../13-characters/valdris-crane.md) |
 | [The Kept Man](the-kept-man.md) ⚠️ | GM-only: twelve years in Habitat One, letter 625 | [Danel Ost](../../13-characters/danel-ost.md), [the Entity](../../03-hidden-truth/the-entity.md) |
+| [The Wedding Feast](the-wedding-feast.md) | fifty years old and eight minutes old at once | [cuisine](../../08-civilization/cuisine.md), [death customs](../../08-civilization/death-and-afterlife.md) |
+| [Boot Sequence](boot-sequence.md) | a delver crew powers a pre-collapse slab; it asks a question | [the Undercroft](../../07-geography/the-undercroft.md), [analog computing](../../08-civilization/technology/analog-computing.md) |
 
 ## Conventions for new tales
 

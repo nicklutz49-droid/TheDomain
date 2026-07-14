@@ -14,6 +14,8 @@ type: index
 - [Neutral Territories](neutral-territories.md) — the Silk Passage, the Americas overview, impassable regions
 - [The Americas](the-americas/_index.md) † — the god-ruled west: Mirror Throne, Roothold, the Free Coasts
 - [Crossroads](crossroads.md) † — the Concordance city; the Road Court; Conclave host in four years
+- [Haven's Rest](havens-rest.md) † — the sanctuary city of the Neutral Rooms; where the Accords were signed
+- [Fort Perseverance](fort-perseverance.md) † — the flagless fortress watching the Northern Wastes
 - [The Undercroft](the-undercroft.md) † — the buried pre-collapse strata beneath the cities
 - [The Pale Interior](pale-interior.md) † — life under Palladia: the Terraces, the Attuned, the Number
 

@@ -26,6 +26,8 @@ Post-source draft additions (†):
 - [Customs and Etiquette](customs-and-etiquette.md) † — introductions, gifts, oaths, mourning
 - [Medicine and Disease](medicine-and-disease.md) † — rebuilt from the cut category
 - [Drugs and Vices](drugs-and-vices.md) † — rebuilt from the cut category
+- [Technology Deep Dives](technology/_index.md) † — airships, circuitry, communications, rails, computing, weapons
+- [Trades and Guilds](trades-and-guilds.md) † — the ten signature trades and who charters them
 
 *Every Streamlined Edition cut category now has a draft rebuild: see also
 [the Undercroft](../07-geography/the-undercroft.md) and

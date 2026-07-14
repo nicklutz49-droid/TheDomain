@@ -54,6 +54,15 @@ type: index
 | The Forty Laws / Surrendered Laws | Schedule One of the Union Charter | [→](../09-power-and-conflict/politics/the-forty-laws.md) |
 | Habitat One | GM-only: the Lunar Complex's occupied civilian suite | [→](../13-characters/danel-ost.md) |
 | Held Note | The unregistered Circuit account that answers Wakeless | [→](../13-characters/ren-okafor.md) |
+| Kept feast | Empire grief custom: a meal held in stasis, sometimes for decades | [→](../11-story/tales/the-wedding-feast.md) |
+| The Lattice | The public information network carried on relay backhaul | [→](../08-civilization/technology/communications.md) |
+| Mooring Codes | Universal airship-mooring law born of the Gilded Promise disaster | [→](../08-civilization/technology/airships.md) |
+| Neutral Rooms | Haven's Rest's chartered parley-chambers under guild safe-conduct | [→](../07-geography/havens-rest.md) |
+| Pattern drift | A circuit's behavior changing though its inscription hasn't | [→](../08-civilization/technology/flux-circuitry.md) |
+| Tally-cores | The mechanical registers behind the Union's "digital tally" | [→](../08-civilization/technology/analog-computing.md) |
+| The Counting Problem | Restricted: why re-derived digital computing is always abandoned | [→](../08-civilization/technology/analog-computing.md) |
+| Toll Companies | Fort Perseverance's flagless, three-power-funded wall garrison | [→](../07-geography/fort-perseverance.md) |
+| Weight-debt | The lift technique airship lattices use — borrowing against mass | [→](../08-civilization/technology/airships.md) |
 | Threefold Testimony | Three uncorrected witness journals of the Verantum Ascension | [→](../01-foundation/events/the-verantum-ascension.md) |
 | Undercroft | The buried pre-collapse strata beneath the cities | [→](../07-geography/the-undercroft.md) |
 | Warm door | A deep Undercroft door that is warm to the touch; never opened | [→](../07-geography/the-undercroft.md) |

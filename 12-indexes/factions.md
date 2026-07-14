@@ -64,6 +64,10 @@ Children of the First Light · the Mask-Weavers · the Silence Guardians
 | Harbor Tables of the Free Coasts | Americas | [→](../07-geography/the-americas/the-free-coasts.md) |
 | The Amaranthine Watch (Backward Saint's keepers) | neutral | [→](../13-characters/sister-amaranth.md) |
 | The Kite Families (Pale Closure refugees) | Confederacy | [→](../01-foundation/events/the-pale-closure.md) |
+| The Toll Companies (subscription garrison) † | neutral (Fort Perseverance) | [→](../07-geography/fort-perseverance.md) |
+| The Roomkeepers' Guild (Neutral Rooms) † | neutral (Haven's Rest) | [→](../07-geography/havens-rest.md) |
+| The Heralds' Guild (licensed channels) † | Empire | [→](../08-civilization/technology/communications.md) |
+| The Civic Lattice Office † | Union | [→](../08-civilization/technology/communications.md) |
 
 ## Non-human
 
