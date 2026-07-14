@@ -5,7 +5,7 @@ type: index
 
 # Deities Index
 
-All named divine beings, across categories. ~300 minor gods exist; 21 are named
+All named divine beings, across categories. ~300 minor gods exist; 22 are named
 († = post-source draft addition).
 
 ## The Twelve
@@ -50,6 +50,7 @@ All named divine beings, across categories. ~300 minor gods exist; 21 are named
 | Brakka † | The Dry Sea (Mediterranean Lowlands) | [→](../04-divine-beings/minor-gods/brakka.md) |
 | Visera † | The Borrowed Face (Confederacy masks) | [→](../04-divine-beings/minor-gods/visera.md) |
 | Lorn † | The Last Lamp (the Silence frontier) | [→](../04-divine-beings/minor-gods/lorn.md) |
+| Ondrel † | The Iron Current (the rail lines) | [→](../04-divine-beings/minor-gods/ondrel.md) |
 
 ## Sealed gods
 

@@ -41,4 +41,12 @@
   - **Politics:** Forty Laws 15–20 written (20 of 40).
   - Rulings 23–28 logged in [continuity-notes.md](continuity-notes.md).
 
+- **v6 — Expansion wave 5: technology and the Passage (this commit).** First workflow-built wave (13 files written and verified by parallel agents, then integrated):
+  - **Technology deep dives** (`08-civilization/technology/`): airships (weight-debt, the Gilded Promise, the fleets), Flux circuitry (Vance Codices, pattern drift, the notation war), communications (the Lattice, message stones), rails (the four great lines, the Shatterbelt Gap), analog computing (Reckoning Halls, tally-cores, the Counting Problem — resolving the old "digital tally" tension), weapons and wards (edge-circuits to reality locks).
+  - **Trades and Guilds**: the ten signature trades of the Domain age.
+  - **Geography:** Haven's Rest and Fort Perseverance — the Silk Passage's three cities all have files now.
+  - **Gods:** Ondrel, the Iron Current — the youngest god, with a timetable of ghost departures (22 minor gods documented).
+  - **Tales:** The Wedding Feast (a kept feast opened after fifty years) and Boot Sequence (why the warm-door creed covers slabs) — 16 total.
+  - Rulings 29–37 logged in [continuity-notes.md](continuity-notes.md).
+
 Record future significant changes here (new canon, retcons, resolved contradictions).

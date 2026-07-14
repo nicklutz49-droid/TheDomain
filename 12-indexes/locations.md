@@ -37,8 +37,8 @@ type: index
 | Western Shore | — | Union | name only |
 | Resonance City | — | Confederacy | major Architect training center |
 | Crossroads † | ~250,000 (draft) | Silk Passage | [own file](../07-geography/crossroads.md): Concordance ground, Road Court, Conclave host |
-| Haven's Rest | — | Silk Passage | name only |
-| Fort Perseverance | — | Silk Passage | name only |
+| Haven's Rest † | ~120,000 (draft) | Silk Passage | [own file](../07-geography/havens-rest.md): the Neutral Rooms, the Treaty Archive |
+| Fort Perseverance † | ~40,000 (draft) | Silk Passage | [own file](../07-geography/fort-perseverance.md): the Toll Companies, the Wastes watch |
 
 ## Glitch zones
 

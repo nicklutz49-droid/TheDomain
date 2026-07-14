@@ -33,7 +33,17 @@ channeling the [Domain](../02-the-domain/the-domain.md). See also
 Exception: [the Silence](../07-geography/the-silence.md) develops purely mechanical
 technology — steam, clockwork, chemistry — because Flux devices don't work there.
 
+## Deep dives †
+
+- [Airships](technology/airships.md) — weight-debt, mooring groves, the Gilded Promise, the fleets
+- [Flux Circuitry](technology/flux-circuitry.md) — the Vance Codices, pattern drift, the notation war
+- [Communications](technology/communications.md) — holo-comms, message stones, and the Lattice
+- [Rails](technology/rails.md) — the four great lines and the Shatterbelt Gap
+- [Analog Computing](technology/analog-computing.md) — Reckoning Halls, tally-cores, and why there is no digital
+- [Weapons and Wards](technology/weapons-and-wards.md) — from edge-circuits to reality locks
+- Companion: [Trades and Guilds](trades-and-guilds.md) — who operates all of it
+
 ## Open threads
 
-- *Why* no digital computing? Lost, suppressed, or does the Domain interfere? (The Union's Merit Credit is described as a "digital tally" — presumably Flux-based ledger-keeping rather than true digital computing; worth a ruling.)
-- Analog computers at civilization scale is a distinctive aesthetic — barely explored.
+- ~~*Why* no digital computing?~~ Answered in draft: see [Analog Computing](technology/analog-computing.md) — the Counting Problem (restricted) and its GM-tier cause. The Merit Credit "digital tally" tension is resolved there too (mechanical tally-cores, loose common speech).
+- Analog computers at civilization scale is a distinctive aesthetic — now explored in the deep dives; the Reckoning Halls deserve a tale of their own someday.

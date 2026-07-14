@@ -21,7 +21,7 @@ Universal hard currency: small synthetic crystals storing measurable
 ## Major currencies
 
 - **Empire — Imperial Mark:** physical coin with Flux-trace. Value backed by the Emperor's guarantee.
-- **Union — Merit Credit:** digital tally tied to a citizen's contribution.
+- **Union — Merit Credit:** "digital tally" in common speech, tied to a citizen's contribution — actually a network of sealed mechanical **tally-cores** synchronized over the Lattice; see [Analog Computing](technology/analog-computing.md) †.
 - **Confederacy — Honor Bond:** debt-and-favors system. Wealth is measured by who owes you.
 
 ## Cross-power commerce
